@@ -33,7 +33,7 @@ function App() {
               className="btn btn-primary"
               onClick={() => setShowToast(true)}
             >
-              Show Default Toast
+              Show Toast
             </button>
           </div>
         </div>
